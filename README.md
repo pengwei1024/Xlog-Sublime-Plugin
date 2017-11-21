@@ -1,2 +1,2 @@
 # Xlog-Sublime-Plugin
-Sublime Plugin for wechat xlog Decrypt
+Sublime Decrypt Plugin for wechat xlog 
